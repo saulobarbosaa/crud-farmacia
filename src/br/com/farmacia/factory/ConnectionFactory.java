@@ -9,7 +9,7 @@ import java.sql.SQLException;
 public class ConnectionFactory {
 
 	private static final String user = "root";
-	private static final String pass = "1234";
+	private static final String pass = "";
 	
 	private static final String url = "jdbc:mysql://localhost:3306/farmacia";
 	
@@ -35,7 +35,7 @@ public class ConnectionFactory {
 		Connection conn = createConnToSQL();
 		
 		if (conn != null) {
-			System.out.println("Conex„o rodando corretamente!");
+			System.out.println("Conex√£o rodando corretamente!");
 			//conn.close();
 		}
 	}
