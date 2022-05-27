@@ -75,5 +75,3 @@ Escolha uma outra opção:
 
 Dessa forma finalizo por aqui, caso queira me passar algum feedback ou sugestão sobre o que e como posso melhorar, basta me mandar um e-mail: saulobarbosadelima@gmail.com
 
-<img src="https://tenor.com/view/cute-adorable-one-piece-luffy-wave-gif-17513607" alt="Luffy"></img>
-
